@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596017743651",
+    "project_id": "application-5a501",
+    "storage_bucket": "application-5a501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596017743651:android:e628810df257f2c45eee96",
+        "android_client_info": {
+          "package_name": "com.sidedrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596017743651-4q22v54n329r9nhlpd9la7156fndraid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQC9lmlfGRXffwQAXqPQW61JExKKg3cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596017743651-4q22v54n329r9nhlpd9la7156fndraid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
